@@ -1,7 +1,7 @@
 # LITA_CLASS_DOCUMENTATION
 ## Project Title: Data Analysis
 
-[Project Overview].(#project-overview).
+{Project Overview}.(#project-overview).
 
 [Data Sources].(#data-sources).
 
