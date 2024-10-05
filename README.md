@@ -48,4 +48,28 @@ We used the following formulas and functions:
     15. ALTER
     16. TRUNCATE
 
+#### The following are examples of SQL codes
+
+```SQL
+SELECT * FROM EMPLOYEE
+WHERE DEPARTMENT = 'Information Tech.'
+```
+
+```SQL
+UPDATE SALARY
+SET STAFFID = 'AB550'
+WHERE STAFFID = 'AB254'
+```
+
+```SQL
+select * from salary
+where salary <> 100560.934
+```
+
+```SQL
+select count(staffid) as StaffperDept, department from Salary
+Group by department
+```
+    
+
 
