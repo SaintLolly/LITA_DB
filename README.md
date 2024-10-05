@@ -70,6 +70,9 @@ where salary <> 100560.934
 select count(staffid) as StaffperDept, department from Salary
 Group by department
 ```
-    
+
+### Data Visualization
+
+
 
 
