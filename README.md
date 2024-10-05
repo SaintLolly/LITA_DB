@@ -74,5 +74,9 @@ Group by department
 ### Data Visualization
 
 
+![image](https://github.com/user-attachments/assets/28dddce5-7c38-4eef-9a42-03a7f8409647)
+
+
+![image](https://github.com/user-attachments/assets/9ca3ffe8-6943-41bd-94c2-2544557c07be)
 
 
