@@ -1,19 +1,17 @@
 # LITA_CLASS_DOCUMENTATION
 ## Project Title: Data Analysis
 
-{Project Overview}.(#project-overview).
+[Project Overview](#project-overview)
 
-[Data Sources].(#data-sources).
+[Data Sources](#data-sources)
 
-[Tools Used].(#tools-sources).
+[Tools Used](#tools-used)
 
-[Data Analysis].(#data-analysis).
+[Data Cleaning and Preparations](#data-cleaning-and-preparations)
 
-[Data Cleaning and Preparations].(#data-cleaning-and-preparations).
+[Exploratory Data Analysis](#exploratory-data-analysis)
 
-[Exploratory Data Analysis].(#exploratory-data-analysis).
-
-[Data Visualization].(#data-visualization).
+[Data Visualization](#data-visualization)
 
 ### Project Overview
 The primary aim of the project is to enable me acquire knowledge and skills on data analysis. The major focus will be on understanding, presenting and interpreting data adequately inorder to get meaningful results. By the end of this course, it is expected that i am able to use data analysis tools effectively, interprete data and present my findings appropriately.
